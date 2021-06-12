@@ -14,7 +14,7 @@ public class Main {
     
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        Infraestructura edificio=new Infraestructura("edificio",1000);
     }
     
 }

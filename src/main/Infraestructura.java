@@ -9,11 +9,11 @@ package main;
  *
  * @author Evelin
  */
-public class infraestructura {
+public class Infraestructura {
     public String Nombre;
     public int m2;
 
-    public infraestructura(String Nombre, int m2) {
+    public Infraestructura(String Nombre, int m2) {
         this.Nombre = Nombre;
         this.m2 = m2;
     }
